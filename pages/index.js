@@ -27,7 +27,7 @@ export default function Home() {
                 <ProjectSection/>
                 {/* <Testimonial/> */}
                 {/* <Pricing/> */}
-                <ContactArea/>
+                {/* <ContactArea/> */}
                 <BlogSection/>
                 <Footer/>
                 <Scrollbar/>
